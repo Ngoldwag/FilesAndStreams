@@ -1,0 +1,9 @@
+helloooooooo
+count how many words are in this file
+and the number of lines
+like
+each
+line
+is
+another
+entity
